@@ -12,10 +12,10 @@ Este repositorio documenta mi progreso en el área de **Ciberseguridad** y **Aut
     * **Propósito**: Facilitar la navegación en informes técnicos extensos extrayendo encabezados (H1, H2, H3).
 
 ## 🛠️ Tecnologías Utilizadas
-* **Python 3.13**: Automatización de tareas.
+* **Python 3.13**: Motor de automatización.
+* **Antigravity IDE**: Entorno de desarrollo basado en la nube para la ejecución y pruebas del script.
 * **Markdown**: Documentación técnica estructurada.
-* **Git/GitHub**: Control de versiones.
-* **Kali Linux & Docker**: Entornos de pruebas de seguridad.
-
+* **Git/GitHub**: Control de versiones y despliegue.
+* **Kali Linux**: Entorno de pruebas para laboratorios de seguridad.
 ---
 *Proyecto desarrollado como parte de mi formación en Ciberseguridad y Análisis de Datos.* 🚀
