@@ -1,21 +1,26 @@
-# Cyber Ops Automation & Labs 🛡️🐍
+# Cyber-Ops Automation & Labs 🛡️🐍
 
-Este repositorio documenta mi progreso en el área de **Ciberseguridad** y **Automatización con Python**. Combina documentación técnica de laboratorios con herramientas desarrolladas para optimizar el flujo de trabajo.
+This repository documents my progress in **Cybersecurity** and **Python Automation**. It combines technical lab documentation (write-ups) with custom tools designed to optimize security workflows.
 
-## 🚀 Contenido del Repositorio
-
-### 1. Laboratorios de Hacking (Write-ups)
-* **[My First Hacking.md](./My%20First%20Hacking.md)**: Informe detallado sobre el despliegue de laboratorios en entornos controlados y técnicas de intrusión.
-
-### 2. Scripts de Automatización
-* **[extraer_titulos.py](./extraer_titulos.py)**: Script en Python que procesa archivos Markdown para generar índices automáticos.
-    * **Propósito**: Facilitar la navegación en informes técnicos extensos extrayendo encabezados (H1, H2, H3).
-
-## 🛠️ Tecnologías Utilizadas
-* **Python 3.13**: Motor de automatización.
-* **Antigravity IDE**: Entorno de desarrollo basado en la nube para la ejecución y pruebas del script.
-* **Markdown**: Documentación técnica estructurada.
-* **Git/GitHub**: Control de versiones y despliegue.
-* **Kali Linux**: Entorno de pruebas para laboratorios de seguridad.
 ---
-*Proyecto desarrollado como parte de mi formación en Ciberseguridad y Análisis de Datos.* 🚀
+
+## 🚀 Repository Content
+
+### 1. Hacking Labs & Write-ups
+* **[My First Hacking.md](./My%20First%20Hacking.md)**: Detailed report on lab deployment in controlled environments and intrusion techniques.
+
+### 2. Automation Scripts
+* **[extraer_titulos.py](./extraer_titulos.py)**: A Python utility that processes Markdown files to generate automatic tables of contents.
+    * **Purpose**: Enhances navigation in extensive technical reports by extracting headers (H1, H2, H3).
+
+---
+
+## 🛠️ Tech Stack
+* **Python 3.13**: Automation engine.
+* **Antigravity IDE**: Cloud-based environment for script execution and testing.
+* **Markdown**: Structured technical documentation.
+* **Kali Linux**: Testing environment for security labs.
+
+---
+
+*Project developed as part of my continuous learning journey in Cybersecurity and Data Analytics.* 🚀
